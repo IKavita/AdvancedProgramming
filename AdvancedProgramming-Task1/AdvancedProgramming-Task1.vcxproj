@@ -149,6 +149,11 @@
   <ItemGroup>
     <ClCompile Include="AdvancedProgramming-Task1.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="drawableGameComponent.h" />
+    <ClInclude Include="game.h" />
+    <ClInclude Include="gameComponent.h" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
